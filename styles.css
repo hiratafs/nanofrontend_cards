@@ -1,0 +1,27 @@
+div{
+  border: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+.box{
+  width:300px;
+  padding: 10px;
+}
+
+p{
+  padding: 10px;
+}
+
+p.italic{
+  font-style: italic;
+}
+
+ul{
+  list-style: none;
+  text-indent: -25px;
+}
+
+
+span{
+  font-weight:bold;
+}
