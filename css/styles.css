@@ -1,0 +1,49 @@
+body{
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+div{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+img{
+  border-radius: 5px;
+}
+
+.box{
+  width:300px;
+  padding: 10px;
+  background-color: #e6ffff;
+}
+
+.fundobranco{
+  background-color: #ffffff;
+}
+
+.sombra{
+  box-shadow: 5px 5px 10px #ccc;
+}
+
+figure {
+  margin-left: 0px;
+  padding: 0px;
+}
+
+p{
+  padding: 5px 0px 0px 10px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+  text-indent: -30px;
+}
